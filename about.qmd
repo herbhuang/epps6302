@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+About this site Interesting.
+
+```{r}
+1 + 1
+```
