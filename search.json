@@ -4,13 +4,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "He Huang (https://huanghe.me) is a PhD student at The University of Texas at Dallas. He is currently enrolled in the IMS PhD Program."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "This is my website for my EPPS6302 class",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hopefully there is something here!\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
