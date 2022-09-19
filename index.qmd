@@ -7,7 +7,3 @@ This is a Quarto website. haha
 Hopefully there is something here!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
