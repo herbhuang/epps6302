@@ -2,7 +2,9 @@
 title: "About"
 ---
 
-About this site Interesting.
+This is my professional website sample par EPPS6302. Using Quarto is interesting and "seemingly" promising. So I would like to try this relatively new stuff.
+
+He Huang ([https://huanghe.me](https://huanghe.me/)) is a PhD student at The University of Texas at Dallas. He is currently enrolled in the IMS PhD Program.
 
 ```{r}
 1 + 1
