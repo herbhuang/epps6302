@@ -7,6 +7,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - wordcloud.qmd
       - about.qmd
       - href: "https://huanghe.me/cv/"
         text: CV
